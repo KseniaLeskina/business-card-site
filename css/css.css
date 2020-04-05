@@ -1,0 +1,79 @@
+body {
+  font-family: sans-serif, Arial, Helvetica;
+  background-color: rgb(255, 198, 198);
+} 
+
+  
+h1 {
+  color: rgb(243, 51, 99);
+  border-style: dotted;
+  border-width: 5px;
+  border-color: rgb(245, 84, 84);
+  border-radius: 500px;
+  margin: 5% 35% 5%;
+  padding: 10px;
+  font-size: 40px;
+  background-color: seashell;
+}
+
+header {
+  text-align: center;
+  position: sticky;
+  
+}
+nav, a:hover  {
+text-transform: uppercase;
+color: rgb(160, 0, 0);
+text-decoration: none;
+padding: 5%;
+}
+a {
+  padding: 5%;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-size: 120%;
+}
+.round {
+  border-radius: 300px;
+  border-style: dotted;
+  border-color: azure;
+  border-width: 7px;
+  margin-top: 5%;
+  
+
+  
+}
+h2 {
+  margin-top: 5%;
+  color: rgb(255, 255, 255);
+  border-left: solid;
+  border-left-color: rgb(243, 51, 99);
+  border-left-width: 5px;
+  padding: 0% 0% 0% 2%;
+}
+footer {
+  margin-top: 5%;
+  text-align: center;
+}
+.start {
+  text-align: left;
+  color: azure;
+  font-size: 10px;
+}
+div {
+  border-style: solid;
+  width: max-content ;
+  padding-left: 2%;
+  padding-right: 2%;
+  border-color: azure;
+  background-color: rgb(255, 197, 197);
+  text-align: center;
+}
+h3, strong {
+  color: rgb(243, 51, 99);
+}
+main p, li {
+color: rgb(177, 27, 27); 
+font-size: large;
+}
